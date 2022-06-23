@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Myanmar IT Bootcamp\Zero to Pro Bootcamp Level 3\Java\Java Practical\.metadata\.plugins\org.eclipse.jdt.core
+2997404741.index
+3516977742.index
+350212081.index
+1865797976.index
